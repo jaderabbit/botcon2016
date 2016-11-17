@@ -4,12 +4,15 @@ Three toy problems for my presentation at BotCon2016
 ## Installation
 You'll need to install python 2.7
 
-You can `pip install` the following packages
+You can `pip install` the following packages:
+
+
 1. jupyter
 2. gensim
 3. nltk
 4. theano
 5. keras
+
 
 or you can simply run 
 
