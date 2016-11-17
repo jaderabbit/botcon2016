@@ -11,7 +11,7 @@ You can `pip install` the following packages
 
 or you can simply run 
 
-`python setup.py`
+`python setup.py install`
 
 ## Data
 
